@@ -1,0 +1,10 @@
+dist
+build
+node_modules
+
+# config files
+vite.config.ts
+codegen.ts
+
+# ignore all js files, as these are always config files
+*.js
