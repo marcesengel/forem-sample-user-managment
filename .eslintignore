@@ -1,6 +1,8 @@
 dist
 build
 node_modules
+__generated__
+schema.gql
 
 # config files
 vite.config.ts
